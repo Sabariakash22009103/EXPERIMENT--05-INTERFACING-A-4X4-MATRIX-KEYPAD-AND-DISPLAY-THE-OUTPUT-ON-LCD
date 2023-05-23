@@ -441,10 +441,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output screen shots of proteus  :
  
- ![Screenshot 2023-05-23 115406](https://github.com/Sabariakash22009103/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390227/c38d987b-439c-47b6-a43f-e80e55aa1344)
-
+![ot](https://github.com/Sabariakash22009103/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390227/dd0e42a3-ba89-47a0-b3b4-108b5c24f19c)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![oot](https://github.com/Sabariakash22009103/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390227/eb80857e-bec1-45e0-8d56-6704377c95f2)
+
  
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
