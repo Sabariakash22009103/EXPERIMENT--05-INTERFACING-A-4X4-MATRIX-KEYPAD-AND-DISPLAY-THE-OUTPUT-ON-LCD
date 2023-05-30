@@ -257,19 +257,19 @@ void key()
 	if(!col1)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 7\n");
+		Lcd_string(&lcd,"key 4\n");
 		col1=1;
 	}
 	else if(!col2)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 8\n");
+		Lcd_string(&lcd,"key 5\n");
 		col2=1;
 	}
 	else if(!col3)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 9\n");
+		Lcd_string(&lcd,"key 6\n");
 		col3=1;
 	}
 	else if(!col4)
@@ -293,19 +293,19 @@ void key()
 	if(!col1)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 7\n");
+		Lcd_string(&lcd,"key 1\n");
 		col1=1;
 	}
 	else if(!col2)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 8\n");
+		Lcd_string(&lcd,"key 2\n");
 		col2=1;
 		}
 	else if(!col3)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 9\n");
+		Lcd_string(&lcd,"key 3\n");
 		col3=1;
 	}
 	else if(!col4)
@@ -441,7 +441,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output screen shots of proteus  :
  
-![ot](https://github.com/Sabariakash22009103/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390227/dd0e42a3-ba89-47a0-b3b4-108b5c24f19c)
+![WhatsApp Image 2023-05-30 at 12 01 04](https://github.com/Sabariakash22009103/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390227/606d89ca-eebd-4ea4-9770-bc9272e2239a)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![oot](https://github.com/Sabariakash22009103/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390227/eb80857e-bec1-45e0-8d56-6704377c95f2)
 
